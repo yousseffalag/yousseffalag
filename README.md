@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/yousseffalag.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #2196F3;" alt="Youssef Falag Profile Picture" />
-  
+<div align="center"> 
   # Hi there! 👋 I'm Youssef Falag
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Future+Software+Engineer;Big+Data+%26+Cloud+Computing;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
