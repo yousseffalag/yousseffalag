@@ -2,7 +2,7 @@
   <h1>Hi there! 👋 I'm Youssef FALAG</h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Future+Software+Engineer;Big+Data+%26+Cloud+Computing;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Big+Data+%26+Cloud+Computing+Engineer;Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 🎓 **Big Data & Cloud Computing Engineering Student** at ENSET Mohammedia  
-💡 Passionate about **oftware Development**, **Data Science**, and **Machine learning**  
+💡 Passionate about **Software Development**, **Data Science**, and **Machine learning**  
 🔍 Currently seeking internship opportunities in **Data Science** or **Software Development**  
 📍 Based in Mohammedia, Morocco  
 ⚡ Available for internships during July-August  
