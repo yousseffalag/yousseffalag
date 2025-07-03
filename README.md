@@ -2,7 +2,7 @@
   <h1>Hi there! 👋 I'm Youssef FALAG</h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Big+Data+%26+Cloud+Computing+Engineering+Student;Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Big+Data+%26+Cloud+Computing+Engineer;Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
