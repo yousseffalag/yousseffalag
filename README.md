@@ -2,7 +2,7 @@
 
 # Hi, I'm Youssef FALAG 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Big+Data+%26+Cloud+Engineer+Student;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Big+Data+%26+Cloud+Engineering+Student;Full+Stack+Developer" alt="Typing SVG" />
 
 <br/>
 
