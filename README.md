@@ -30,7 +30,7 @@
 2nd-year engineering student at **ENSET Mohammedia**, specializing in **Big Data & Cloud Computing**. Passionate about building intelligent systems — from end-to-end ML pipelines and distributed data architectures to modern full-stack web apps.
 
 - 🔭 Currently building an **AI-powered Resume & Job Matcher** (A2A + MCP + NLP + Microservices)
-- 🌱 Skills in **Data Engineering**, **Software Engineering **and **Data Scientist**
+- 🌱 Skills in **Data Engineering**, **Software Engineering**and **Data Scientist**
 - 📍 Based in Mohammedia, Morocco
 
 ---
